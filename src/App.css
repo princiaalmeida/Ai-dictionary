@@ -45,7 +45,7 @@ body {
 
 .results-side {
   flex: 2;
-  background-color: #1a202c; /* This is the dark background */
+  background-color: #1a202c;
   color: white;
   padding: 2rem;
   overflow-y: auto;
